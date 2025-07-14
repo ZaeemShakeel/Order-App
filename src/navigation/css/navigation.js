@@ -1,3 +1,3 @@
-export const navbar={
-   navLink:"text-base font-semibold text-slate-900 mx-2  hover:text-green-500"
-}
+export const navbar = {
+  navLink: "text-gray-700 font-medium hover:text-green-600 transition",
+};
